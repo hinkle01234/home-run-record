@@ -9,6 +9,7 @@ h1  {
     table {
        margin: 5px;
        width: 290px;
+       border-style: 5px solid black;
     }
     
     th {
