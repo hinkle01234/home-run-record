@@ -1,7 +1,7 @@
 h1  {
        text-align: center;
        font-size: 12pt;
-       color: #000099;
+       color: white;
        margin-bottom: 5px;
        text-decoration: underline;
     }
@@ -9,7 +9,8 @@ h1  {
     table {
        margin: 5px;
        width: 290px;
-       border-style: 5px solid black;
+       border-style: 5px solid white;
+      margin-left: 150px;
     }
     
     th {
@@ -19,15 +20,29 @@ h1  {
     td {
        padding-left: 8px;
        padding-right: 8px;
-       border: 1px solid #990000;
-       background-color: #ffffcc;
+       border: 1px solid white;
+       background-color: white;
     }
     
     #trHeader {
        text-decoration: underline;
-       color: #990000;
+       color: white;
     }
     
     .centerCell {
        text-align: center;
     }
+img {
+    padding: 15px;
+    margin-left:160px; 
+}
+.ol {
+  color:white;
+}
+body {
+  background-color: black;
+}
+   .paragraph {
+  color:white;
+     text-align:center;
+}
